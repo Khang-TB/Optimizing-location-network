@@ -36,6 +36,7 @@ The work was produced for the course **“Introduction to Business Analytics”*
 ---
 
 ## Repository Structure
+```
 .
 ├── Code.ipynb                        # End-to-end modelling & simulation notebook
 ├── Report.pdf                        # 60-page technical report with figures & discussion
@@ -48,7 +49,7 @@ The work was produced for the course **“Introduction to Business Analytics”*
 │   ├── total_costs.xlsx
 │   └── variable_costs.xlsx
 └── README.md                         # (this file)
-
+```
 ---
 
 ## How to Use
