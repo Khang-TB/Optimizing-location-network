@@ -69,20 +69,23 @@ The work was produced for the course **“Introduction to Business Analytics”*
 
 2. **Open the notebook**  
    Launch Jupyter Notebook or a compatible environment, and open: `Code.ipynb`
-3. **Load the data**
+
+3. **Load the data**  
    The notebook uses input files from the `Supply chain optimization_data/` folder. Make sure all Excel files are present.
-4. **Run the notebook**
-   Execute each cell sequentially to:
-   - Load and process the data
-   - Apply optimization models
+
+4. **Run the notebook**  
+   Execute each cell sequentially to:  
+   - Load and process the data  
+   - Apply optimization models  
    - Generate visualizations and outputs
-5. **View the report**
+
+5. **View the report**  
    See `Report.pdf` for detailed explanations and results.
    
 > ⚠️ **Disclaimer**  
 > The author shaped the optimisation logic and business assumptions, but he is **NOT** an advanced Python programmer.  
 > Most of the code was produced with AI assistance and then checked against the model’s intent. Syntax was frequently look up as needed.
-> This repository is a proof‑of‑concept to demonstrate analytical reasoning, not production‑ready software.
+> This repository is a proof‑of‑concept to demonstrate analytical reasoning only.
 
 ---
 
