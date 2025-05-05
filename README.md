@@ -7,9 +7,9 @@ The work was produced for the course **“Introduction to Business Analytics”*
 
 ## Objective
 * Select factory locations / capacities and product flows that minimise total monthly cost  
-  *(fixed + variable production + freight)* :contentReference[oaicite:0]{index=0}  
-* Explore trade‑offs between cost and unmet demand penalties :contentReference[oaicite:1]{index=1}  
-* Quantify network robustness via 50 Monte‑Carlo demand scenarios and compare alternative footprints :contentReference[oaicite:2]{index=2}.
+  *(fixed + variable production + freight)*
+* Explore trade‑offs between cost and unmet demand penalties
+* Quantify network robustness via 50 Monte‑Carlo demand scenarios and compare alternative footprints
 
 ---
 
@@ -79,9 +79,9 @@ The work was produced for the course **“Introduction to Business Analytics”*
    See `Report.pdf` for detailed explanations and results.
    
 > ⚠️ **Disclaimer**  
-> The author shaped the optimisation logic and business assumptions, but he is **NOT** a Python programmer.  
-> Most of the code was produced with AI assistance and then checked against the model’s intent.  
-> Consider this implementation a proof‑of‑concept that showcases the author's analytical reasoning, not as production‑ready software.
+> The author shaped the optimisation logic and business assumptions, but he is **NOT** an advanced Python programmer.  
+> Most of the code was produced with AI assistance and then checked against the model’s intent. Syntax was frequently look up as needed.
+> This repository is a proof‑of‑concept to demonstrate analytical reasoning, not production‑ready software.
 
 ---
 
