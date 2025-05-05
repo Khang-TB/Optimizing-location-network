@@ -6,7 +6,7 @@ The work was produced for the course **“Introduction to Business Analytics”*
 ---
 
 ## Objective
-* Select factory locations / capacities and product flows that minimise total monthly cost  
+* Select factory locations / capacities and product flows that minimise cost  
   *(fixed + variable production + freight)*
 * Explore trade‑offs between cost and unmet demand penalties
 * Quantify network robustness via 50 Monte‑Carlo demand scenarios and compare alternative footprints
