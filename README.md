@@ -16,10 +16,10 @@ The work was produced for the course **“Introduction to Business Analytics”*
 ## Tools & Techniques
 | Area | Details |
 |------|---------|
-| Optimisation | **PuLP** linear programming solver; binary plant‑opening and continuous flow variables; capacity, demand and logical constraints :contentReference[oaicite:3]{index=3} |
-| Simulation | **NumPy / SciPy** truncated‑normal demand generator (CV = 0.5) feeding repeated solves :contentReference[oaicite:4]{index=4} |
+| Optimisation | **PuLP** linear programming solver; binary plant‑opening and continuous flow variables; capacity, demand and logical constraints |
+| Simulation | **NumPy / SciPy** truncated‑normal demand generator (CV = 0.5) feeding repeated solves |
 | Data Wrangling | **Pandas** DataFrames for cost inputs, scenario matrices, and result tables |
-| Visualisation | **Matplotlib / Seaborn / Plotly** for cost breakdowns, Sankey flow, utilisation charts, heat‑maps of factory choices :contentReference[oaicite:5]{index=5} |
+| Visualisation | **Matplotlib / Seaborn / Plotly** for cost breakdowns, Sankey flow, utilisation charts, heat‑maps of factory choices |
 | Reporting | Jupyter Notebook (`Code.ipynb`) and accompanying report (`Report.pdf`) |
 
 ---
