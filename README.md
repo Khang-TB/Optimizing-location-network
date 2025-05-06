@@ -84,7 +84,7 @@ The work was produced for the course **“Introduction to Business Analytics”*
    
 > ⚠️ **Disclaimer**  
 > The author shaped the optimisation logic and business assumptions, but he is **NOT** an advanced Python programmer.  
-> Most of the code was produced with AI assistance and then checked against the model’s intent. Syntax was frequently look up as needed.
+> Most of the code was produced with AI assistance and then checked against the model’s intent. Syntax was frequently looked up as needed.
 > This repository is a proof‑of‑concept to demonstrate analytical reasoning only.
 
 ---
